@@ -1,0 +1,15 @@
+.\output\time_delay.o: ..\BSP\Delay\time_delay.c
+.\output\time_delay.o: ..\BSP\Delay\time_delay.h
+.\output\time_delay.o: ..\SYSTEM\sys\sys.h
+.\output\time_delay.o: ..\CMSIS\stm32f10x.h
+.\output\time_delay.o: ..\CMSIS\core_cm3.h
+.\output\time_delay.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\time_delay.o: ..\CMSIS\system_stm32f10x.h
+.\output\time_delay.o: ..\USER\stm32f10x_conf.h
+.\output\time_delay.o: ..\LIB\inc\stm32f10x_exti.h
+.\output\time_delay.o: ..\CMSIS\stm32f10x.h
+.\output\time_delay.o: ..\LIB\inc\stm32f10x_gpio.h
+.\output\time_delay.o: ..\LIB\inc\stm32f10x_rcc.h
+.\output\time_delay.o: ..\LIB\inc\stm32f10x_tim.h
+.\output\time_delay.o: ..\LIB\inc\stm32f10x_usart.h
+.\output\time_delay.o: ..\LIB\inc\misc.h
